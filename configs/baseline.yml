@@ -1,0 +1,11 @@
+model: yolo26n.pt
+data: data/data.yaml
+epochs: 30
+imgsz: 512
+batch: 16
+optimizer: SGD
+lr0: 0.01
+seed: 42
+deterministic: true
+name: baseline
+exist_ok: true

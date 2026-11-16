@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Dataset (downloaded by the notebook, never committed)
+data/
+
+# Ultralytics training outputs and weights
+runs/
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Secrets (never commit API keys)
+kaggle.json
+.env

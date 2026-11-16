@@ -1,0 +1,6 @@
+ultralytics==8.4.215
+kagglehub==1.0.3
+ImageHash==4.3.2
+pillow==13.0.0
+matplotlib==3.11.2
+PyYAML==6.0.3
