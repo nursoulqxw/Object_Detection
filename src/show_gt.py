@@ -8,7 +8,7 @@ from PIL import Image
 
 CLASS_NAMES = ["crop", "weed"]
 COLORS = ["lime", "red"]
-SEED = 15
+SEED = 42
 NUM_IMAGES = 6
 
 
